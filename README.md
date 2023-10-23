@@ -57,3 +57,23 @@ Title | Description | Author | Area of Focus | Difficulty
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure | [Sonia Conti](https://github.com/SoniaConti/ContosoFinance-Demo) | DevOps | Associate |
 [Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize [this .NET project](https://github.com/madebygps/signalr-crypto-tickers-workshop) | [Rishab Kumar](http://twitter.com/rishabk7) | DevOps | Associate |
 [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE | [Arie Bregman](https://github.com/bregman-arie) | DevOps | Associate |
+
+ [DevOps Journey Using Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) 
+
+ This tutorial/lab setup is going to take you through a DevOps journey using Azure DevOps. From setting up your pipeline to deploying an application to your Azure Kubernetes cluster! 
+
+ [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) 
+
+ This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. 
+
+ [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) 
+
+ This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. 
+
+ ## Certifications you might want to look into
+
+- [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
+- [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+- [GCP Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
+
+
