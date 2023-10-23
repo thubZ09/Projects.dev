@@ -77,3 +77,31 @@ Title | Description | Author | Area of Focus | Difficulty
 - [GCP Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
 
 
+## Additional Learning Resources
+
+### Cloud Provider Documentation
+
+- **[Amazon Web Services (AWS) Documentation](https://aws.amazon.com/documentation/) :** Explore the comprehensive documentation provided by AWS to learn about various AWS services and features.
+
+- **[Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/) :** Access the official documentation for Microsoft Azure to understand Azure services and best practices.
+
+- **[Google Cloud Platform (GCP) Documentation](https://cloud.google.com/docs/) :** GCP's official documentation offers in-depth information on Google Cloud services.
+
+
+### Blogs
+
+- **[Cloud Academy Blog](https://cloudacademy.com/blog/) :** Stay updated with the latest cloud trends, best practices, and tutorials.
+
+- **[A Cloud Guru Blog](https://acloudguru.com/blog) :** Access informative articles on cloud technologies and certification guides.
+
+### Books
+
+- **[AWS Books](https://aws.amazon.com/books/) :** Amazon offers a list of books covering AWS services and cloud best practices.
+
+- **[Azure Books](https://azure.microsoft.com/en-us/resources/ebooks/) :** Microsoft provides free Azure eBooks for deeper understanding.
+
+- **[Google Cloud Books](https://cloud.google.com/products/operations) :** Check out Google Cloud's recommended books for cloud enthusiasts.
+
+Feel free to explore these resources to enhance your cloud knowledge and skills.
+
+
