@@ -1,4 +1,4 @@
-# Projects.dev
+# Projects.dev🧑‍💻
 
 Each phase has a list of projects that we recommend you complete first. Here is a list of more.
 
